@@ -1,4 +1,4 @@
-# Credit-Card-Analysis-Using-Power-BI
+# Credit_Card_Analysis_Using_Power_BI
 
 ### Dashboard Link : 
 
